@@ -1,0 +1,15 @@
+{
+  "name": "sale_platform",
+  "version": "1.0.0",
+  "description": "Sale platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/MartychDenys/sale_platform.git"
+  },
+  "author": "Martych Denys, Maliar Maxim",
+  "license": "ISC"
+}
