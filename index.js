@@ -1,5 +1,4 @@
-const express = require('express');
-const app = express();
-const config = require('./config/config')
+const app = require('./app');
+const conf = require('./config/config');
 
-app.listen(config.port, () => console.log('Server start'))
+app.listen(conf.PORT, () => console.log(`Server is running... ${conf.PORT}`))
